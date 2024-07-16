@@ -1,0 +1,10 @@
+Codecademy portfolio project 1: Terminal text based game / application
+
+tic-tac-toe or connect four
+
+let's do connect four
+
+2 players
+uses input()
+write a blog about it too
+
