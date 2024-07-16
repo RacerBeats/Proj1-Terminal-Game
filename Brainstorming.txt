@@ -8,3 +8,18 @@ let's do connect four
 uses input()
 write a blog about it too
 
+7 columns wide
+6 rows high
+
+players alternate turns placing disks into the vertical grid.
+first to get 4 in a row, column, or diagonal wins.
+
+functions:
+
+player()
+
+board()
+
+wincondition code?
+
+Iterators
