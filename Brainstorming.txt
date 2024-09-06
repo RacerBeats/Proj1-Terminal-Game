@@ -23,3 +23,6 @@ board()
 wincondition code?
 
 Iterators
+
+
+SCRATCH THAT, WE'RE DOING TIC TAC toe
